@@ -1,0 +1,19 @@
+{
+  "name": "goit-node-hw1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AleksPastukhov/goit-node-hw1.git",
+  "author": "AleksPastukhov <pastukhov.os@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+    "dependencies": {
+    "commander": "^10.0.1"
+  },
+    "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
